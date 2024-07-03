@@ -22,8 +22,9 @@ To interact with this contract, you need the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/nirajnil2/assesment6.git
+   cd assesment6
+
 Install dependencies:
 npm install
 Compile the contract:
